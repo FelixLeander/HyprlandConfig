@@ -4,4 +4,4 @@
 # Files to track
 !.gitignore
 
-!.config/
+!.config/hypr/**
