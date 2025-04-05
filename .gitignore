@@ -1,0 +1,7 @@
+*
+!*/
+
+# Files to track
+!.gitignore
+
+!.config/
